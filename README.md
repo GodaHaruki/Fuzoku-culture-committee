@@ -1,1 +1,0 @@
-"# Fuzoku-culture-committee" 
