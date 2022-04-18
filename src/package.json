@@ -1,0 +1,34 @@
+{
+  "name": "react-calture-communitiee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "react-scripts build && mv build docs",
+    "start": "react-scripts start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+  },
+  "dependencies": {
+    "bulma": "^0.9.3",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "homepage": "https://godaharuki.github.io/Fuzoku-culture-committee/"
+}
